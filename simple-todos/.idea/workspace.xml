@@ -305,7 +305,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="enabled" />
     <property name="js.meteor.project" value="true" />
     <property name="js.meteor.library.was.enabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html5-boilerplate" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
@@ -378,12 +378,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477775098864</updated>
       <workItem from="1477775100480" duration="75000" />
-      <workItem from="1477775193292" duration="8384000" />
+      <workItem from="1477775193292" duration="8520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8459000" />
+    <option name="totallyTimeSpent" value="8595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="602" y="43" width="818" height="763" extended-state="0" />
